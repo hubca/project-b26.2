@@ -1,13 +1,13 @@
-2018-05-17 12:55:01,405 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-12 - ApplicationTimer demo: Starting application at 2018-05-17T11:55:01.403Z.
-2018-05-17 12:55:02,694 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-12 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+2018-05-17 13:07:38,626 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-3 - ApplicationTimer demo: Starting application at 2018-05-17T12:07:38.624Z.
+2018-05-17 13:07:40,262 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-3 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
     play.filters.headers.SecurityHeadersFilter
     play.filters.hosts.AllowedHostsFilter
     filters.ExampleFilter
 
-2018-05-17 12:55:02,702 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-12 - Application started (Dev)
-2018-05-17 12:55:17,409 [INFO] from play.core.server.AkkaHttpServer in pool-4-thread-3 - Stopping server...
-2018-05-17 12:55:17,415 [INFO] from play.modules.reactivemongo.DefaultReactiveMongoApi in pool-4-thread-3 - ReactiveMongoApi stopping...
-2018-05-17 12:55:17,492 [INFO] from play.modules.reactivemongo.DefaultReactiveMongoApi in scala-execution-context-global-112 - ReactiveMongoApi connections are stopped
-2018-05-17 12:55:17,564 [INFO] from application in pool-4-thread-3 - ApplicationTimer demo: Stopping application at 2018-05-17T11:55:17.564Z after 16s.
+2018-05-17 13:07:40,271 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-3 - Application started (Dev)
+2018-05-17 13:08:41,395 [INFO] from play.core.server.AkkaHttpServer in pool-4-thread-6 - Stopping server...
+2018-05-17 13:08:41,413 [INFO] from play.modules.reactivemongo.DefaultReactiveMongoApi in pool-4-thread-6 - ReactiveMongoApi stopping...
+2018-05-17 13:08:41,875 [INFO] from play.modules.reactivemongo.DefaultReactiveMongoApi in scala-execution-context-global-145 - ReactiveMongoApi connections are stopped
+2018-05-17 13:08:42,248 [INFO] from application in pool-4-thread-6 - ApplicationTimer demo: Stopping application at 2018-05-17T12:08:42.248Z after 64s.

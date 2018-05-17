@@ -2,120 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="632b8054-75e8-4b43-b5a5-f31fb4e38b8e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/assets/javascripts/dataTables.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/assets/javascripts/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/assets/javascripts/layout.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/assets/scss/admin.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/assets/scss/dataTables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/aMain.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/db/actionColumns.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/db/adminCollectionTab.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/db/adminFormTab.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/db/collection.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/db/cty/collection.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/db/cty/docs/tab1.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/db/cty/form.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/db/cty/formFields/tab1.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/db/genCollectionTabs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/db/index.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/db/inputForm.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/generic/div.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/generic/form/fieldset.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/generic/form/formAction.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/generic/form/inputGroup.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/generic/form/radioWithInputTextGroup.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/generic/form/textAreaGroup.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/generic/navLi.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/generic/navTabs.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/generic/pageHeader.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/generic/panel.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/generic/panelBody.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/generic/panelCollapsible.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/generic/panelHeader.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/generic/panelHeaderCollapsible.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/generic/tabContent.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/generic/tabPane.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/navigation.scala.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/views/sidebar.scala.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/streams/$global/$global/$global/streams/sync-exported-assets-web-assets" afterPath="$PROJECT_DIR$/modules/admin/target/streams/$global/$global/$global/streams/sync-exported-assets-web-assets" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterPath="$PROJECT_DIR$/modules/admin/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/modules/admin/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/streams/compile/playRoutes/$global/streams/op-cache" afterPath="$PROJECT_DIR$/modules/admin/target/streams/compile/playRoutes/$global/streams/op-cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/streams/web-assets/assets/$global/streams/sync-assets-web-assets" afterPath="$PROJECT_DIR$/modules/admin/target/streams/web-assets/assets/$global/streams/sync-assets-web-assets" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/streams/web-assets/sassify/$global/streams/run/op-cache" afterPath="$PROJECT_DIR$/modules/admin/target/streams/web-assets/sassify/$global/streams/run/op-cache" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/application.log" afterPath="$PROJECT_DIR$/logs/application.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/com.boardrs/admin_2.12/1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/com.boardrs/admin_2.12/1.0-SNAPSHOT/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/com.boardrs/admin_2.12/1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/com.boardrs/admin_2.12/1.0-SNAPSHOT/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-compile.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-debian.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-debian.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-docker.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-docker.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-docs.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-linux.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-linux.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-optional.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-plugin.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-pom.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-provided.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-rpm.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-rpm.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-runtime.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-sources.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-test.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-universal-docs.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-universal-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-universal-src.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-universal-src.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-universal.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-universal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-windows.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-windows.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/admin/Routes.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/admin/Routes.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/admin/RoutesPrefix.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/admin/RoutesPrefix.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/controllers/admin/ReverseRoutes.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/controllers/admin/ReverseRoutes.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/controllers/admin/db/ReverseRoutes.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/controllers/admin/db/ReverseRoutes.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/controllers/admin/db/javascript/JavaScriptReverseRoutes.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/controllers/admin/db/javascript/JavaScriptReverseRoutes.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/controllers/admin/db/routes.java" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/controllers/admin/db/routes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/controllers/admin/javascript/JavaScriptReverseRoutes.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/controllers/admin/javascript/JavaScriptReverseRoutes.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/controllers/admin/routes.java" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/controllers/admin/routes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/aMain.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/aMain.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/actionColumns.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/actionColumns.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/adminCollectionTab.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/adminCollectionTab.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/adminFormTab.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/adminFormTab.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/collection.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/collection.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/cty/collection.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/cty/collection.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/cty/docs/tab1.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/cty/docs/tab1.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/cty/form.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/cty/form.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/cty/formFields/tab1.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/cty/formFields/tab1.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/index.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/index.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/inputForm.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/inputForm.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/div.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/div.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/form/fieldset.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/form/fieldset.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/form/formAction.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/form/formAction.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/form/inputGroup.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/form/inputGroup.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/form/radioWithInputTextGroup.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/form/radioWithInputTextGroup.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/form/textAreaGroup.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/form/textAreaGroup.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/navLi.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/navLi.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/navTabs.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/navTabs.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/pageHeader.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/pageHeader.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/panel.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/panel.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/panelBody.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/panelBody.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/panelCollapsible.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/panelCollapsible.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/panelHeader.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/panelHeader.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/panelHeaderCollapsible.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/panelHeaderCollapsible.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/tabContent.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/tabContent.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/tabPane.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/tabPane.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/navigation.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/navigation.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/sidebar.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/sidebar.template.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/modules/admin/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.12" afterPath="$PROJECT_DIR$/modules/admin/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.12" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/streams/web-assets/sassify/$global/streams/out" afterPath="$PROJECT_DIR$/modules/admin/target/streams/web-assets/sassify/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/web/classes/main/META-INF/resources/webjars/admin/1.0-SNAPSHOT/scss/admin.css" afterPath="$PROJECT_DIR$/modules/admin/target/web/classes/main/META-INF/resources/webjars/admin/1.0-SNAPSHOT/scss/admin.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/web/classes/main/META-INF/resources/webjars/admin/1.0-SNAPSHOT/scss/admin.css.map" afterPath="$PROJECT_DIR$/modules/admin/target/web/classes/main/META-INF/resources/webjars/admin/1.0-SNAPSHOT/scss/admin.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/web/public/main/lib/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/modules/admin/target/web/public/main/lib/font-awesome/scss/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/web/public/main/scss/admin.css" afterPath="$PROJECT_DIR$/modules/admin/target/web/public/main/scss/admin.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/web/public/main/scss/admin.css.map" afterPath="$PROJECT_DIR$/modules/admin/target/web/public/main/scss/admin.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/web/sass/main/scss/admin.css" afterPath="$PROJECT_DIR$/modules/admin/target/web/sass/main/scss/admin.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/web/sass/main/scss/admin.css.map" afterPath="$PROJECT_DIR$/modules/admin/target/web/sass/main/scss/admin.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/web/web-modules/main/webjars/lib/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/modules/admin/target/web/web-modules/main/webjars/lib/font-awesome/scss/_variables.scss" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -208,16 +96,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="actionColumns.scala.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/admin/app/views/db/actionColumns.scala.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="admin.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/admin/app/assets/scss/admin.scss">
           <provider selected="true" editor-type-id="text-editor">
@@ -238,7 +116,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_variables.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_variables.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/admin/target/web/web-modules/main/webjars/lib/font-awesome/scss/_variables.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
@@ -248,14 +126,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CallClient.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/admin/app/services/CallClient.scala">
+      <file leaf-file-name="Common.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/Common.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-              <folding>
-                <element signature="e#18#44#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="222">
+              <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plugins.sbt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/admin/target/web/web-modules/main/webjars/lib/bootstrap-sass/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="27" column="18" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -273,7 +169,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>s</find>
       <find>s las</find>
       <find>s last</find>
       <find>s lastV</find>
@@ -303,6 +198,7 @@
       <find>AllCollectionsTrait</find>
       <find>BsonIdTrait</find>
       <find>sbt</find>
+      <find>sassi</find>
     </findStrings>
     <replaceStrings>
       <replace>getJsResultAsJsObjList</replace>
@@ -359,7 +255,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/modules/admin/app/views/db/cty2/collection.scala.html" />
         <option value="$PROJECT_DIR$/modules/admin/app/views/db/our2/collection.scala.html" />
         <option value="$PROJECT_DIR$/modules/admin/app/views/db/rgn1/collection.scala.html" />
         <option value="$PROJECT_DIR$/modules/admin/app/views/db/rgn2/collection.scala.html" />
@@ -410,6 +305,7 @@
         <option value="$PROJECT_DIR$/project/build.properties" />
         <option value="$PROJECT_DIR$/target/web/web-modules/main/webjars/lib/font-awesome/scss/_variables.scss" />
         <option value="$PROJECT_DIR$/modules/admin/target/web/web-modules/main/webjars/lib/font-awesome/scss/_variables.scss" />
+        <option value="$PROJECT_DIR$/modules/admin/target/web/web-modules/main/webjars/lib/bootstrap-sass/package.json" />
       </list>
     </option>
   </component>
@@ -814,6 +710,52 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="scss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project-b26.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project-b26.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webjars" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap-sass" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1451,7 +1393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1526556078619</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="- admin area + crud api (minus query builders)">
+      <created>1526558204572</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1526558204572</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1489,6 +1438,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36006546" sideWeight="0.5477273" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28009084" sideWeight="0.59133124" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4091653" sideWeight="0.49394855" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.2036336" sideWeight="0.40866873" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1496,7 +1446,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4091653" sideWeight="0.49394855" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -1607,13 +1556,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/modules/admin/app/views/db/cty/form.scala.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="109" lean-forward="false" selection-start-line="9" selection-start-column="109" selection-end-line="9" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/admin/app/views/db/our/form.scala.html" />
     <entry file="file://$PROJECT_DIR$/modules/admin/app/views/db/our/collection.scala.html" />
     <entry file="file://$PROJECT_DIR$/modules/admin/app/views/db/rgn/collection.scala.html" />
@@ -1780,7 +1722,7 @@
         <state relative-caret-position="113">
           <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
           <folding>
-            <element signature="e#18#44#0" expanded="true" />
+            <element signature="e#18#44#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1808,24 +1750,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/Common.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#33#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1907,6 +1831,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="53" lean-forward="false" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/Common.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/admin/target/web/web-modules/main/webjars/lib/bootstrap-sass/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="27" column="18" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
           <folding />
         </state>
       </provider>
