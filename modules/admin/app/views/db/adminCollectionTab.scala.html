@@ -1,0 +1,33 @@
+@(collName: String, oDocs: Option[Seq[models.db.SuperVarT]])(oActiveTabIdx: Option[Int] = None)
+
+<table class="table datatable table-striped table-bordered table-hover cell-border display table-collection admin" id="dataTable">
+    @for(docs <- oDocs) {
+
+        <thead>
+            <tr role="row">
+                <th>id</th>
+                <th>@docs.head.vTuple._1</th>
+                <th>admin created id</th>
+                <th>date created</th>
+                <th>admin modified id</th>
+                <th>last modified</th>
+                <th class="no-sort"></th>
+                <th class="no-sort"></th>
+            </tr>
+        </thead>
+        <tbody>
+            @for((doc, idx) <- docs.zipWithIndex) {
+                <tr class="@doc.oddOrEvenTableRow(idx)" role="row">
+                    <td>@doc.oAdminAsObj.idAsStringLast6(doc.oAdminAsObj._id)</td>
+                    <td>@doc.vTuple._2</td>
+                    <td class="text-center">@doc.oAdminAsObj.adminCreatedIdAsString</td>
+                    <td>@doc.oAdminAsObj.dateCreatedAsString</td>
+                    <td class="text-center">@doc.oAdminAsObj.adminModifiedIdAsString</td>
+                    <td>@doc.oAdminAsObj.lastModifiedAsString</td>
+
+                    @actionColumns(collName, doc.oAdminAsObj._id)(oActiveTabIdx)
+                </tr>
+            }
+        </tbody>
+    }
+</table>

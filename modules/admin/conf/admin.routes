@@ -1,0 +1,18 @@
+# Routes
+# This file defines all admin application routes (Higher priority routes first)
+# ~~~~
+
+# testing rest API
+GET     /db/:collName/:queryType/index                      controllers.admin.db.IndexC.index(collName: String, queryType: String, oId: Option[BSONObjectID], oActiveTabIdx: Option[Int])
+POST    /db/submitForm/:queryType/:collName                 controllers.admin.db.IndexC.submitForm(queryType: String, collName: String, oId: Option[BSONObjectID], oUpdatedDoc: Option[String], oActiveTabIdx: Option[Int])
+GET     /db/deleteDoc/:collName                             controllers.admin.db.IndexC.deleteDoc(collName: String, oId: Option[BSONObjectID], oActiveTabIdx: Option[Int])
+
+# testing API core (CRUD)
+GET        /api/1.1/r/:collName                             controllers.admin.db.Widgets.index(collName: String)
+GET        /api/1.1/r/:collName                             controllers.admin.db.Widgets.read(collName: String, oId: Option[BSONObjectID])
+POST       /api/1.1/c/:collName                             controllers.admin.db.Widgets.create(collName: String)
+#POST       /api/1.1/u/:collName                             controllers.admin.db.Widgets.update(collName: String, oId: Option[BSONObjectID])
+PUT        /api/1.1/u/:collName                             controllers.admin.db.Widgets.updateFromRequest(collName: String, oId: Option[BSONObjectID])
+DELETE     /api/1.1/d/:collName                             controllers.admin.db.Widgets.delete(collName: String, oId: Option[BSONObjectID])
+
+GET /assets/*file                                           controllers.admin.Assets.at(path="/public/lib", file)

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/project-b26.2.iml" filepath="$PROJECT_DIR$/.idea/modules/project-b26.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/admin-admin-build.iml" filepath="$PROJECT_DIR$/.idea/modules/admin-admin-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/admin-build.iml" filepath="$PROJECT_DIR$/.idea/modules/admin-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules-admin.iml" filepath="$PROJECT_DIR$/.idea/modules/modules-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root.iml" filepath="$PROJECT_DIR$/.idea/modules/root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root-build.iml" filepath="$PROJECT_DIR$/.idea/modules/root-build.iml" />
     </modules>
   </component>
 </project>

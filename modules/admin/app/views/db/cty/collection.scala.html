@@ -1,0 +1,8 @@
+@import helper._
+@(collName: String, oDocs: Option[Seq[models.db.CtyM]])(oActiveTabIdx: Option[Int] = None)(implicit request: RequestHeader, messagesProvider: MessagesProvider)
+
+@getDocsTabList = @{
+    List(docs.tab1(collName, oDocs), views.html.db.adminCollectionTab(collName, oDocs)(oActiveTabIdx))
+}
+
+@views.html.db.collection(collName)(getDocsTabList, oActiveTabIdx)

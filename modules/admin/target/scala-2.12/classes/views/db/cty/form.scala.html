@@ -1,0 +1,10 @@
+@import helper._
+@(collName: String, queryType: String)(thisForm: Form[models.db.CtyM], thisFormDataJsStr: Option[String], oId: Option[reactivemongo.bson.BSONObjectID])(oOptsMap: Option[Map[String, Seq[(String, String)]]] = None)(oActiveTabIdx: Option[Int], oTabNames: Option[Seq[String]])(implicit request: RequestHeader, messagesProvider: MessagesProvider)
+
+@getFormTabList = @{
+    List(formFields.tab1(queryType, thisForm, oOptsMap), views.html.db.adminFormTab(queryType, thisForm, oOptsMap))
+}
+
+@views.html.generic.navTabs(oTabNames, oActiveTabIdx)
+
+@views.html.db.inputForm(collName, queryType)(oId, oOptsMap)(getFormTabList, oActiveTabIdx)(thisFormDataJsStr)

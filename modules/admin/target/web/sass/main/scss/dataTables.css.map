@@ -1,0 +1,13 @@
+{
+	"version": 3,
+	"file": "dataTables.css",
+	"sourceRoot": "/assets/",
+	"sources": [
+		"dataTables.scss"
+	],
+	"sourcesContent": [
+		"/* DataTables Overrides */\r\n\r\ntable.dataTable thead .sorting,\r\ntable.dataTable thead .sorting_asc,\r\ntable.dataTable thead .sorting_desc,\r\ntable.dataTable thead .sorting_asc_disabled,\r\ntable.dataTable thead .sorting_desc_disabled {\r\n    background: transparent;\r\n}\r\n\r\ntable.dataTable thead .sorting_asc:after, table.dataTable thead .sorting_desc:after,\r\ntable.dataTable thead .sorting:after {\r\n    float: right;\r\n    font-family: \"fontawesome\";\r\n}\r\n\r\ntable.dataTable thead .sorting_asc:after {\r\n    content: \"\\f0dd\";\r\n\topacity: 0.5;\r\n}\r\n\r\ntable.dataTable thead .sorting_desc:after {\r\n    content: \"\\f0de\";\r\n\topacity: 0.5;\r\n}\r\n\r\ntable.dataTable thead .sorting:after {\r\n    content: \"\\f0dc\";\r\n    color: rgba(50,50,50,.5);\r\n}\r\n\r\ntable.dataTable thead .sorting:after {\r\n\topacity: 0.2;\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": "AAEA,AAAsB,KAAjB,AAAA,UAAU,CAAC,KAAK,CAAC,QAAQ,CAC9B,AAAsB,KAAjB,AAAA,UAAU,CAAC,KAAK,CAAC,YAAY,CAClC,AAAsB,KAAjB,AAAA,UAAU,CAAC,KAAK,CAAC,aAAa,CACnC,AAAsB,KAAjB,AAAA,UAAU,CAAC,KAAK,CAAC,qBAAqB,CAC3C,AAAsB,KAAjB,AAAA,UAAU,CAAC,KAAK,CAAC,sBAAsB,AAAC,CACzC,UAAU,CAAE,WAAW,CAC1B,AAED,AAAsB,KAAjB,AAAA,UAAU,CAAC,KAAK,CAAC,YAAY,AAAA,MAAM,CAAE,AAAsB,KAAjB,AAAA,UAAU,CAAC,KAAK,CAAC,aAAa,AAAA,MAAM,CACnF,AAAsB,KAAjB,AAAA,UAAU,CAAC,KAAK,CAAC,QAAQ,AAAA,MAAM,AAAC,CACjC,KAAK,CAAE,KAAK,CACZ,WAAW,CAAE,aAAa,CAC7B,AAED,AAAsB,KAAjB,AAAA,UAAU,CAAC,KAAK,CAAC,YAAY,AAAA,MAAM,AAAC,CACrC,OAAO,CAAE,OAAO,CACnB,OAAO,CAAE,GAAG,CACZ,AAED,AAAsB,KAAjB,AAAA,UAAU,CAAC,KAAK,CAAC,aAAa,AAAA,MAAM,AAAC,CACtC,OAAO,CAAE,OAAO,CACnB,OAAO,CAAE,GAAG,CACZ,AAED,AAAsB,KAAjB,AAAA,UAAU,CAAC,KAAK,CAAC,QAAQ,AAAA,MAAM,AAAC,CACjC,OAAO,CAAE,OAAO,CAChB,KAAK,CAAE,kBAAiB,CAC3B,AAED,AAAsB,KAAjB,AAAA,UAAU,CAAC,KAAK,CAAC,QAAQ,AAAA,MAAM,AAAC,CACpC,OAAO,CAAE,GAAG,CACZ"
+}

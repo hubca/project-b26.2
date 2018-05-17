@@ -1,0 +1,36 @@
+@import helper._
+
+@(queryType: String, thisForm: Form[models.db.CtyM], oOptsMap: Option[Map[String, Seq[(String, String)]]])(implicit request: RequestHeader, messagesProvider: MessagesProvider)
+
+
+@views.html.generic.form.fieldset("3", "well") {
+
+    @inputText(thisForm("countryName"), '_label -> "country name", 'class -> "form-control", 'id -> "countryName", 'name -> "countryName", 'size -> 30, 'placeholder -> "e.g. France", 'required -> "required")
+    @inputText(thisForm("countryCode"), '_label -> "country code", 'class -> "form-control", 'id -> "countryCode", 'name -> "countryCode", 'size -> 10, 'placeholder -> "e.g. FR", 'required -> "required")
+
+}
+
+@views.html.generic.form.fieldset("3", "well") {
+
+    @for(optsMap <- oOptsMap) {
+        @select(thisForm("continent"), options = optsMap("continents"), '_label -> "continent", 'class -> "form-control", 'id -> "continent", 'name -> "continent")
+        @select(thisForm("hemisphere"), options = optsMap("hemispheres"), '_label -> "hemisphere", 'class -> "form-control", 'id -> "hemisphere", 'name -> "hemisphere")
+    }
+
+}
+
+@views.html.generic.form.fieldset("3", "well") {
+
+    @repeatWithIndex(thisForm("languagesArr"), min = 2) { (language, idx) =>
+        @inputText(language, '_label -> ("language #" + (idx +1)), 'class -> "form-control", 'placeholder -> "e.g. French")
+    }
+
+}
+
+@views.html.generic.form.fieldset("3", "well") {
+
+    @inputText(thisForm("currencyCode"), '_label -> "currency code", 'class -> "form-control", 'id -> "currencyCode", 'name -> "currencyCode", 'size -> 10, 'placeholder -> "e.g. EUR", 'required -> "required")
+
+}
+
+@views.html.generic.form.formAction("btn-action", "1", queryType)

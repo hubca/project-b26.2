@@ -1,0 +1,6 @@
+@import helper._
+@(collName: String, oId: Option[reactivemongo.bson.BSONObjectID])(oActiveTabIdx: Option[Int])
+
+
+<td class="text-center"><a href="@admin.db.routes.IndexC.index(collName, "u", oId, oActiveTabIdx)"><i class="fa fa-pencil-square-o"></i></a></td>
+<td class="text-center"><a href="@admin.db.routes.IndexC.deleteDoc(collName, oId, oActiveTabIdx)"><i class="fa fa-trash-o"></i></a></td>
