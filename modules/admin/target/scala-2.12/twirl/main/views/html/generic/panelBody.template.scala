@@ -43,7 +43,7 @@ Seq[Any](format.raw/*1.17*/("""
 
               /*
                   -- GENERATED --
-                  DATE: Thu May 17 12:30:51 BST 2018
+                  DATE: Thu May 17 18:18:45 BST 2018
                   SOURCE: C:/Users/sambo/scala/play/project-b26.2/modules/admin/app/views/generic/panelBody.scala.html
                   HASH: f41e304807aa6b11a1fa978d193e6ccd0e0872d7
                   MATRIX: 739->1|849->16|879->20|935->51|962->58|990->60

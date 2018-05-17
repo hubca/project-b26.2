@@ -15,4 +15,5 @@ POST       /api/1.1/c/:collName                             controllers.admin.db
 PUT        /api/1.1/u/:collName                             controllers.admin.db.Widgets.updateFromRequest(collName: String, oId: Option[BSONObjectID])
 DELETE     /api/1.1/d/:collName                             controllers.admin.db.Widgets.delete(collName: String, oId: Option[BSONObjectID])
 
+
 GET /assets/*file                                           controllers.admin.Assets.at(path="/public/lib", file)

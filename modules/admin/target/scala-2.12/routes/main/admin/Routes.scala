@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
 // @SOURCE:C:/Users/sambo/scala/play/project-b26.2/modules/admin/conf/admin.routes
-// @DATE:Thu May 17 12:30:48 BST 2018
+// @DATE:Thu May 17 18:18:44 BST 2018
 
 package admin
 
@@ -21,7 +21,7 @@ class Routes(
   IndexC_0: controllers.admin.db.IndexC,
   // @LINE:11
   Widgets_1: controllers.admin.db.Widgets,
-  // @LINE:18
+  // @LINE:19
   Assets_2: controllers.admin.Assets,
   val prefix: String
 ) extends GeneratedRouter {
@@ -32,7 +32,7 @@ class Routes(
     IndexC_0: controllers.admin.db.IndexC,
     // @LINE:11
     Widgets_1: controllers.admin.db.Widgets,
-    // @LINE:18
+    // @LINE:19
     Assets_2: controllers.admin.Assets
   ) = this(errorHandler, IndexC_0, Widgets_1, Assets_2, "/")
 
@@ -206,7 +206,7 @@ class Routes(
     )
   )
 
-  // @LINE:18
+  // @LINE:19
   private[this] lazy val controllers_admin_Assets_at8_route = Route("GET",
     PathPattern(List(StaticPart(this.prefix), StaticPart(this.defaultPrefix), StaticPart("assets/"), DynamicPart("file", """.+""",false)))
   )
@@ -275,7 +275,7 @@ class Routes(
         controllers_admin_db_Widgets_delete7_invoker.call(Widgets_1.delete(collName, oId))
       }
   
-    // @LINE:18
+    // @LINE:19
     case controllers_admin_Assets_at8_route(params) =>
       call(Param[String]("path", Right("/public/lib")), params.fromPath[String]("file", None)) { (path, file) =>
         controllers_admin_Assets_at8_invoker.call(Assets_2.at(path, file))

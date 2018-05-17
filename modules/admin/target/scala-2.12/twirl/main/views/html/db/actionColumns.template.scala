@@ -44,7 +44,7 @@ Seq[Any](format.raw/*2.94*/("""
 
               /*
                   -- GENERATED --
-                  DATE: Thu May 17 12:30:50 BST 2018
+                  DATE: Thu May 17 18:18:45 BST 2018
                   SOURCE: C:/Users/sambo/scala/play/project-b26.2/modules/admin/app/views/db/actionColumns.scala.html
                   HASH: 18f7b3ca6be051146d6615f5f8a0debfea013869
                   MATRIX: 435->1|815->19|1002->111|1034->117|1094->151|1107->156|1185->214|1295->298|1308->303|1385->360

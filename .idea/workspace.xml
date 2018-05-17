@@ -1,12 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="632b8054-75e8-4b43-b5a5-f31fb4e38b8e" name="Default" comment="">
+    <list default="true" id="632b8054-75e8-4b43-b5a5-f31fb4e38b8e" name="Default" comment="- tidied">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/controllers/admin/ApiC.class" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/controllers/admin/ApiC.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/controllers/admin/db/Widgets.class" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/controllers/admin/db/Widgets.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/services/CallClient.class" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/services/CallClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/services/dbClient/WidgetRepoImpl.class" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/services/dbClient/WidgetRepoImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/streams/$global/$global/$global/streams/sync-exported-assets-web-assets" afterPath="$PROJECT_DIR$/modules/admin/target/streams/$global/$global/$global/streams/sync-exported-assets-web-assets" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterPath="$PROJECT_DIR$/modules/admin/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/modules/admin/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="$PROJECT_DIR$/modules/admin/target/streams/compile/copyResources/$global/streams/copy-resources" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/streams/compile/playRoutes/$global/streams/op-cache" afterPath="$PROJECT_DIR$/modules/admin/target/streams/compile/playRoutes/$global/streams/op-cache" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/streams/web-assets/assets/$global/streams/sync-assets-web-assets" afterPath="$PROJECT_DIR$/modules/admin/target/streams/web-assets/assets/$global/streams/sync-assets-web-assets" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/web/public/main/lib/bootstrap-sass/package.json" afterPath="$PROJECT_DIR$/modules/admin/target/web/public/main/lib/bootstrap-sass/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/web/web-modules/main/webjars/lib/bootstrap-sass/package.json" afterPath="$PROJECT_DIR$/modules/admin/target/web/web-modules/main/webjars/lib/bootstrap-sass/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/application.log" afterPath="$PROJECT_DIR$/logs/application.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/app/controllers/admin/ApiC.scala" afterPath="$PROJECT_DIR$/modules/admin/app/controllers/admin/ApiC.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/app/controllers/admin/db/Widgets.scala" afterPath="$PROJECT_DIR$/modules/admin/app/controllers/admin/db/Widgets.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/app/services/CallClient.scala" afterPath="$PROJECT_DIR$/modules/admin/app/services/CallClient.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/app/services/dbClient/WidgetRepo.scala" afterPath="$PROJECT_DIR$/modules/admin/app/services/dbClient/WidgetRepo.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/app/views/navigation.scala.html" afterPath="$PROJECT_DIR$/modules/admin/app/views/navigation.scala.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/conf/admin.routes" afterPath="$PROJECT_DIR$/modules/admin/conf/admin.routes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/com.boardrs/admin_2.12/1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/com.boardrs/admin_2.12/1.0-SNAPSHOT/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/com.boardrs/admin_2.12/1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/com.boardrs/admin_2.12/1.0-SNAPSHOT/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-compile.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-debian.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-debian.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-docker.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-docker.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-docs.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-linux.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-linux.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-optional.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-plugin.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-pom.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-provided.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-rpm.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-rpm.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-runtime.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-sources.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-test.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-universal-docs.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-universal-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-universal-src.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-universal-src.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-universal.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-universal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-windows.xml" afterPath="$PROJECT_DIR$/modules/admin/target/resolution-cache/reports/com.boardrs-admin_2.12-windows.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/admin.routes" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/classes/admin.routes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/admin/Routes.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/admin/Routes.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/admin/RoutesPrefix.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/admin/RoutesPrefix.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/controllers/admin/ReverseRoutes.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/controllers/admin/ReverseRoutes.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/controllers/admin/db/ReverseRoutes.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/controllers/admin/db/ReverseRoutes.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/controllers/admin/db/javascript/JavaScriptReverseRoutes.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/controllers/admin/db/javascript/JavaScriptReverseRoutes.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/controllers/admin/db/routes.java" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/controllers/admin/db/routes.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/controllers/admin/javascript/JavaScriptReverseRoutes.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/controllers/admin/javascript/JavaScriptReverseRoutes.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/controllers/admin/routes.java" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/routes/main/controllers/admin/routes.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/aMain.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/aMain.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/actionColumns.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/actionColumns.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/adminCollectionTab.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/adminCollectionTab.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/adminFormTab.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/adminFormTab.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/collection.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/collection.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/cty/collection.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/cty/collection.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/cty/docs/tab1.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/cty/docs/tab1.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/cty/form.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/cty/form.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/cty/formFields/tab1.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/cty/formFields/tab1.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/index.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/index.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/inputForm.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/db/inputForm.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/div.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/div.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/form/fieldset.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/form/fieldset.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/form/formAction.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/form/formAction.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/form/inputGroup.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/form/inputGroup.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/form/radioWithInputTextGroup.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/form/radioWithInputTextGroup.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/form/textAreaGroup.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/form/textAreaGroup.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/navLi.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/navLi.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/navTabs.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/navTabs.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/pageHeader.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/pageHeader.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/panel.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/panel.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/panelBody.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/panelBody.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/panelCollapsible.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/panelCollapsible.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/panelHeader.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/panelHeader.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/panelHeaderCollapsible.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/panelHeaderCollapsible.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/tabContent.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/tabContent.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/tabPane.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/generic/tabPane.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/navigation.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/navigation.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/sidebar.template.scala" afterPath="$PROJECT_DIR$/modules/admin/target/scala-2.12/twirl/main/views/html/sidebar.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/modules/admin/target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.12" afterPath="$PROJECT_DIR$/modules/admin/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.12" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/admin/target/streams/web-assets/sassify/$global/streams/out" afterPath="$PROJECT_DIR$/modules/admin/target/streams/web-assets/sassify/$global/streams/out" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -55,23 +132,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IndexC.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/admin/app/controllers/admin/db/IndexC.scala">
+      <file leaf-file-name="admin.routes" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/admin/conf/admin.routes">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-              <folding>
-                <element signature="e#30#51#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="306">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="Widgets.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/admin/app/controllers/admin/db/Widgets.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="34">
+              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WidgetRepo.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/admin/app/services/dbClient/WidgetRepo.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -80,11 +165,9 @@
       <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="102">
               <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#33#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -92,68 +175,28 @@
       <file leaf-file-name="index.scala.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/admin/app/views/db/index.scala.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
+            <state relative-caret-position="102">
               <caret line="6" column="78" lean-forward="false" selection-start-line="6" selection-start-column="78" selection-end-line="6" selection-end-column="78" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/admin/app/assets/scss/admin.scss">
+      <file leaf-file-name="ApiC.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/admin/app/controllers/admin/ApiC.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="141" lean-forward="false" selection-start-line="3" selection-start-column="141" selection-end-line="3" selection-end-column="171" />
+            <state relative-caret-position="216">
+              <caret line="222" column="57" lean-forward="false" selection-start-line="222" selection-start-column="57" selection-end-line="222" selection-end-column="57" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_variables.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/target/web/web-modules/main/webjars/lib/font-awesome/scss/_variables.scss">
+      <file leaf-file-name="CallClient.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/admin/app/services/CallClient.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-187">
-              <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_variables.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/admin/target/web/web-modules/main/webjars/lib/font-awesome/scss/_variables.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="53" lean-forward="false" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Common.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/Common.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="plugins.sbt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modules/admin/target/web/web-modules/main/webjars/lib/bootstrap-sass/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="27" column="18" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+            <state relative-caret-position="595">
+              <caret line="39" column="1" lean-forward="false" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -172,15 +215,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>s las</find>
-      <find>s last</find>
-      <find>s lastV</find>
-      <find>s lastVi</find>
-      <find>s lastVis</find>
-      <find>superfo</find>
-      <find>cc2MongoTrans</find>
-      <find>cc2MongoCreateTrans</find>
-      <find>JsValue</find>
       <find>jssuc</find>
       <find>tojso</find>
       <find>save</find>
@@ -201,12 +235,18 @@
       <find>AllCollectionsTrait</find>
       <find>BsonIdTrait</find>
       <find>sbt</find>
+      <find>curl</find>
       <find>sassi</find>
+      <find>db2ModelTransformer</find>
+      <find>collection</find>
+      <find>collection(</find>
+      <find>e</find>
+      <find>ej</find>
+      <find>ejs</find>
+      <find>ejs</find>
+      <find>2.0</find>
     </findStrings>
     <replaceStrings>
-      <replace>getJsResultAsJsObjList</replace>
-      <replace>getJsResultAsVarList</replace>
-      <replace>AdminM</replace>
       <replace>div</replace>
       <replace>CtyM</replace>
       <replace>getJsResultAsCollectionL</replace>
@@ -234,6 +274,9 @@
       <replace>BsonIdTrait</replace>
       <replace>changeMe</replace>
       <replace>AllCollectionsTrait</replace>
+      <replace>mongo2ccTransformer</replace>
+      <replace>getCollection</replace>
+      <replace>getCollection(</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\sambo\scala\play\project-b26\modules\admin\app\views\db\rst</dir>
@@ -258,8 +301,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/modules/admin/app/views/db/our2/collection.scala.html" />
-        <option value="$PROJECT_DIR$/modules/admin/app/views/db/rgn1/collection.scala.html" />
         <option value="$PROJECT_DIR$/modules/admin/app/views/db/rgn2/collection.scala.html" />
         <option value="$PROJECT_DIR$/modules/admin/app/views/db/rst/collection.scala.html" />
         <option value="$PROJECT_DIR$/modules/admin/app/views/db/scr/collection.scala.html" />
@@ -292,23 +333,25 @@
         <option value="$PROJECT_DIR$/modules/admin/app/views/db/cty/form.scala.html" />
         <option value="$PROJECT_DIR$/modules/admin/app/views/db/rgn/form.scala.html" />
         <option value="$PROJECT_DIR$/modules/admin/app/views/db/inputForm.scala.html" />
-        <option value="$PROJECT_DIR$/modules/admin/app/services/dbClient/WidgetRepo.scala" />
-        <option value="$PROJECT_DIR$/modules/admin/app/controllers/admin/db/Widgets.scala" />
         <option value="$PROJECT_DIR$/conf/routes" />
         <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/modules/admin/app/controllers/admin/db/IndexC.scala" />
-        <option value="$PROJECT_DIR$/modules/admin/conf/admin.routes" />
         <option value="$PROJECT_DIR$/modules/build.sbt" />
-        <option value="$PROJECT_DIR$/modules/admin/app/controllers/admin/ApiC.scala" />
         <option value="$PROJECT_DIR$/modules/admin/app/models/db/MongoM.scala" />
         <option value="$PROJECT_DIR$/modules/admin/app/models/db/_traits.scala" />
         <option value="$PROJECT_DIR$/modules/admin/app/views/db/actionColumns.scala.html" />
-        <option value="$PROJECT_DIR$/modules/admin/app/services/CallClient.scala" />
         <option value="$PROJECT_DIR$/project/Common.scala" />
         <option value="$PROJECT_DIR$/project/build.properties" />
         <option value="$PROJECT_DIR$/target/web/web-modules/main/webjars/lib/font-awesome/scss/_variables.scss" />
+        <option value="$PROJECT_DIR$/target/web/web-modules/main/webjars/lib/bootstrap-sass/package.json" />
+        <option value="$PROJECT_DIR$/modules/admin/app/services/dbClient/WidgetRepo.scala" />
+        <option value="$PROJECT_DIR$/modules/admin/app/controllers/admin/db/Widgets.scala" />
+        <option value="$PROJECT_DIR$/modules/admin/app/services/CallClient.scala" />
+        <option value="$PROJECT_DIR$/modules/admin/conf/admin.routes" />
+        <option value="$PROJECT_DIR$/modules/admin/app/controllers/admin/ApiC.scala" />
         <option value="$PROJECT_DIR$/modules/admin/target/web/web-modules/main/webjars/lib/font-awesome/scss/_variables.scss" />
         <option value="$PROJECT_DIR$/modules/admin/target/web/web-modules/main/webjars/lib/bootstrap-sass/package.json" />
+        <option value="$PROJECT_DIR$/modules/admin/app/views/navigation.scala.html" />
       </list>
     </option>
   </component>
@@ -337,8 +380,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -362,451 +403,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web-modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web-modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webjars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web-modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webjars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="font-awesome" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web-modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webjars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="font-awesome" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web-modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web-modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webjars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web-modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webjars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="font-awesome" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web-modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webjars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="font-awesome" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web-modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webjars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap-sass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -846,7 +443,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
+              <option name="myItemId" value="conf" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -865,68 +462,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project-b26.2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -948,6 +483,66 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project-b26.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project-b26.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project-b26.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project-b26.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -956,8 +551,122 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project-b26.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project-b26.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project-b26.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project-b26.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project-b26.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project-b26.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project-b26.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project-b26.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1410,7 +1119,21 @@
       <option name="project" value="LOCAL" />
       <updated>1526559631203</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="- admin area + crud api (minus query builders)">
+      <created>1526559889773</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1526559889773</updated>
+    </task>
+    <task id="LOCAL-00012" summary="- tidied">
+      <created>1526577000001</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1526577000001</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1437,17 +1160,16 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24981076" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2651391" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26350245" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329296" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19967267" sideWeight="0.7776097" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329296" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36006546" sideWeight="0.5477273" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28009084" sideWeight="0.59133124" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25204584" sideWeight="0.5477273" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28463286" sideWeight="0.59133124" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4091653" sideWeight="0.49394855" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.2036336" sideWeight="0.40866873" order="7" side_tool="true" content_ui="tabs" />
@@ -1455,6 +1177,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19967267" sideWeight="0.7776097" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1547,13 +1270,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Working on admin DB (play 2.6, reactiveMongo 0.12, scala 2.12)" />
     <MESSAGE value="tidied files, added custom weather aggregate &amp; CUD for weather collection" />
     <MESSAGE value="- fixed error with insert/edit to resortInfoStr collection&#10;- structured updateScores&#10;- added model for rst" />
     <MESSAGE value="- save" />
     <MESSAGE value="- ???" />
     <MESSAGE value="- admin area + crud api (minus query builders)" />
-    <option name="LAST_COMMIT_MESSAGE" value="- admin area + crud api (minus query builders)" />
+    <MESSAGE value="- tidied" />
+    <option name="LAST_COMMIT_MESSAGE" value="- tidied" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1566,8 +1291,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/modules/admin/app/views/db/our/form.scala.html" />
-    <entry file="file://$PROJECT_DIR$/modules/admin/app/views/db/our/collection.scala.html" />
     <entry file="file://$PROJECT_DIR$/modules/admin/app/views/db/rgn/collection.scala.html" />
     <entry file="file://$PROJECT_DIR$/modules/admin/app/views/db/cty/collection.scala.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -1592,7 +1315,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1600,7 +1322,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1627,29 +1348,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/admin/app/services/dbClient/WidgetRepo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="82" column="3" lean-forward="false" selection-start-line="82" selection-start-column="3" selection-end-line="82" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/admin/app/views/db/inputForm.scala.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="2" column="206" lean-forward="false" selection-start-line="2" selection-start-column="206" selection-end-line="2" selection-end-column="206" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/admin/app/controllers/admin/db/Widgets.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="36" column="31" lean-forward="false" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
-          <folding>
-            <element signature="e#30#51#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1665,14 +1367,6 @@
     <entry file="file://$PROJECT_DIR$/modules/admin/app/models/db/Rst.scala" />
     <entry file="file://$PROJECT_DIR$/modules/admin/app/models/db/Our.scala" />
     <entry file="file://$PROJECT_DIR$/modules/admin/app/services/ServiceTemplate.scala" />
-    <entry file="file://$PROJECT_DIR$/modules/admin/conf/admin.routes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Date.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
@@ -1680,19 +1374,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/admin/app/controllers/admin/ApiC.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="25" column="34" lean-forward="false" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/admin/app/models/db/MongoM.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1715,7 +1400,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1723,17 +1407,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/admin/app/services/CallClient.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding>
-            <element signature="e#18#44#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1741,7 +1414,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1750,7 +1422,7 @@
         <state relative-caret-position="272">
           <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
           <folding>
-            <element signature="e#30#51#0" expanded="true" />
+            <element signature="e#30#51#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1759,7 +1431,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1767,7 +1438,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1775,7 +1445,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1783,17 +1452,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="102">
           <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1801,22 +1467,68 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-119">
           <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/web/web-modules/main/webjars/lib/bootstrap-sass/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/admin/app/views/db/index.scala.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
+        <state relative-caret-position="102">
           <caret line="6" column="78" lean-forward="false" selection-start-line="6" selection-start-column="78" selection-end-line="6" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/admin/target/web/web-modules/main/webjars/lib/jquery/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="32" column="41" lean-forward="false" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/web/web-modules/main/webjars/lib/bootstrap-sass/package.json" />
+    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/Common.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/web/web-modules/main/webjars/lib/font-awesome/scss/_variables.scss" />
+    <entry file="file://$PROJECT_DIR$/modules/admin/app/services/dbClient/WidgetRepo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/admin/app/controllers/admin/db/Widgets.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/admin/app/services/CallClient.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="39" column="1" lean-forward="false" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/admin/conf/admin.routes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1829,14 +1541,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/web/web-modules/main/webjars/lib/font-awesome/scss/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-187">
-          <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/admin/target/web/web-modules/main/webjars/lib/font-awesome/scss/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -1845,26 +1549,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/Common.scala">
+    <entry file="file://$PROJECT_DIR$/modules/admin/app/views/navigation.scala.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+        <state relative-caret-position="125">
+          <caret line="11" column="62" lean-forward="false" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/admin/target/web/web-modules/main/webjars/lib/bootstrap-sass/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="390">
           <caret line="27" column="18" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/admin/app/controllers/admin/ApiC.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="222" column="57" lean-forward="false" selection-start-line="222" selection-start-column="57" selection-end-line="222" selection-end-column="57" />
           <folding />
         </state>
       </provider>

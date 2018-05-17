@@ -46,7 +46,7 @@ Seq[Any](format.raw/*1.79*/("""
 
               /*
                   -- GENERATED --
-                  DATE: Thu May 17 12:30:51 BST 2018
+                  DATE: Thu May 17 18:18:45 BST 2018
                   SOURCE: C:/Users/sambo/scala/play/project-b26.2/modules/admin/app/views/generic/panelCollapsible.scala.html
                   HASH: ea0c445909535c5a595fface7c21286f3168fcf9
                   MATRIX: 767->1|939->78|969->82|1014->101|1044->111|1078->120|1146->168|1178->174|1214->184|1244->194|1318->242|1356->260|1388->266

@@ -44,7 +44,7 @@ Seq[Any](format.raw/*1.72*/("""
 
               /*
                   -- GENERATED --
-                  DATE: Thu May 17 12:30:51 BST 2018
+                  DATE: Thu May 17 18:18:45 BST 2018
                   SOURCE: C:/Users/sambo/scala/play/project-b26.2/modules/admin/app/views/generic/tabPane.scala.html
                   HASH: 568f16d9616b1f2419752f9b8ec6e13781165cc0
                   MATRIX: 758->1|923->71|953->75|1001->97|1027->103|1055->105|1083->113|1116->120|1142->126|1176->135|1203->142|1231->144

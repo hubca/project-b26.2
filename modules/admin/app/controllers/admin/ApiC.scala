@@ -92,15 +92,10 @@ class ApiC @Inject()(parser: BodyParsers.Default)(cc: ControllerComponents, acto
 
   def getDataFromResponse(wsResponse: WSResponse): JsValue = {
 
-    val db2ModelTransformer =
-      ((__).json.copyFrom( (__ \ 'varData_e).json.pick ) and
-        (__ \ 'admin_e).json.copyFrom( (__).json.pick ) reduce ) andThen
-        (__ \ 'admin_e \ 'varData_e).json.prune
-
     val jsRes = Json.fromJson[List[JsObject]](wsResponse.json) // todo change to enable single
 
     jsRes match {
-      case JsSuccess(jsoL: List[JsObject], path: JsPath) => Json.toJson( jsoL.map(jso => tryTransformerAsJsObj(jso, db2ModelTransformer)) )
+      case JsSuccess(jsoL: List[JsObject], path: JsPath) => Json.toJson( jsoL.map(jso => tryTransformerAsJsObj(jso, mongo2ccTransformer)) )
       case e: JsError => JsError.toJson(e)
     }
 
@@ -147,18 +142,6 @@ class ApiC @Inject()(parser: BodyParsers.Default)(cc: ControllerComponents, acto
     }
 
   }
-
-  def cc2MongoCreateTrans: Reads[JsObject] = (__ \ 'varData_e).json.copyFrom( (__).json.pick )
-
-  def cc2MongoUpdateTrans: Reads[JsObject] =
-    (__ \ 'varData_e).json.copyFrom( (__).json.pick ) andThen
-      (__ \ 'varData_e).read[JsObject].flatMap(
-        _.fields.foldLeft((__ \ 'varData_e).json.prune) {
-          case (acc, (k, v)) => acc andThen __.json.update(
-            Reads.of[JsObject].map(_ + (s"varData_e.$k" -> v))
-          )
-        }
-      )
 
   def getCreatedFieldValues[T <: SuperVarT](newFormM: T): Option[JsObject] = {
     val newFormJSO = Json.toJsObject(newFormM)
@@ -223,5 +206,23 @@ class ApiC @Inject()(parser: BodyParsers.Default)(cc: ControllerComponents, acto
     }
 
   }
+
+  // -- transformers  -- \\
+  def mongo2ccTransformer: Reads[JsObject] =
+    ((__).json.copyFrom( (__ \ 'varData_e).json.pick ) and
+      (__ \ 'admin_e).json.copyFrom( (__).json.pick ) reduce ) andThen
+      (__ \ 'admin_e \ 'varData_e).json.prune
+
+  def cc2MongoCreateTrans: Reads[JsObject] = (__ \ 'varData_e).json.copyFrom( (__).json.pick )
+
+  def cc2MongoUpdateTrans: Reads[JsObject] =
+    (__ \ 'varData_e).json.copyFrom( (__).json.pick ) andThen
+      (__ \ 'varData_e).read[JsObject].flatMap(
+        _.fields.foldLeft((__ \ 'varData_e).json.prune) {
+          case (acc, (k, v)) => acc andThen __.json.update(
+            Reads.of[JsObject].map(_ + (s"varData_e.$k" -> v))
+          )
+        }
+      )
 
 }

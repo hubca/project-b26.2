@@ -34,7 +34,7 @@ Seq[Any](format.raw/*1.4*/("""
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="index.html">Boardrs v2.0</a>
+        <a class="navbar-brand" href="index.html">Boardrs v2.1</a>
     </div>
     <!-- /.navbar-header -->
 
@@ -266,9 +266,9 @@ Seq[Any](format.raw/*1.4*/("""
 
               /*
                   -- GENERATED --
-                  DATE: Thu May 17 12:30:50 BST 2018
+                  DATE: Thu May 17 18:35:33 BST 2018
                   SOURCE: C:/Users/sambo/scala/play/project-b26.2/modules/admin/app/views/navigation.scala.html
-                  HASH: 15db4f4d666595c36d45f4b32898555dc2af5d5a
+                  HASH: adf5bf1b8ec1aa21ba7052b701f16e982285af6d
                   MATRIX: 727->1|823->3|853->7|10984->10111|11015->10120|11049->10126
                   LINES: 21->1|26->1|28->3|251->226|251->226|252->227
                   -- GENERATED --
