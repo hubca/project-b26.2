@@ -266,8 +266,8 @@ Seq[Any](format.raw/*1.4*/("""
 
               /*
                   -- GENERATED --
-                  DATE: Wed May 16 23:27:27 BST 2018
-                  SOURCE: C:/Users/sambo/scala/play/project-b26_container-test/modules/admin/app/views/navigation.scala.html
+                  DATE: Thu May 17 12:30:50 BST 2018
+                  SOURCE: C:/Users/sambo/scala/play/project-b26.2/modules/admin/app/views/navigation.scala.html
                   HASH: 15db4f4d666595c36d45f4b32898555dc2af5d5a
                   MATRIX: 727->1|823->3|853->7|10984->10111|11015->10120|11049->10126
                   LINES: 21->1|26->1|28->3|251->226|251->226|252->227

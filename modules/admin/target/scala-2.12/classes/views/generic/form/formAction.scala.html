@@ -1,9 +1,0 @@
-@(btnClass: String, value: String, action: String)
-
-@queryLabel = @{
-    views.generic.form.FormHelper.getFormActionLabel(action)
-}
-
-<div class="form-actions">
-    <button type="submit" name="submit" class="btn @btnClass" value="@value">@queryLabel</button>
-</div>

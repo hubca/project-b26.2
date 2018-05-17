@@ -158,8 +158,8 @@ Seq[Any](format.raw/*1.4*/("""
 
               /*
                   -- GENERATED --
-                  DATE: Thu May 17 11:37:45 BST 2018
-                  SOURCE: C:/Users/sambo/scala/play/project-b26_container-test/modules/admin/app/views/sidebar.scala.html
+                  DATE: Thu May 17 12:30:50 BST 2018
+                  SOURCE: C:/Users/sambo/scala/play/project-b26.2/modules/admin/app/views/sidebar.scala.html
                   HASH: a780a645a8a64830559558ea4be2c8845c2f88ec
                   MATRIX: 724->1|820->3|850->7|2455->1585|2553->1666|2594->1668|2648->1694|2719->1738|2733->1743|2812->1800|2843->1803|2872->1810|2961->1868|3007->1886
                   LINES: 21->1|26->1|28->3|66->41|66->41|66->41|67->42|68->43|68->43|68->43|68->43|68->43|70->45|71->46

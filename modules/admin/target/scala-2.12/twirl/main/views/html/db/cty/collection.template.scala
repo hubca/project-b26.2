@@ -46,8 +46,8 @@ Seq[Any](format.raw/*2.160*/("""
 
               /*
                   -- GENERATED --
-                  DATE: Thu May 17 11:37:46 BST 2018
-                  SOURCE: C:/Users/sambo/scala/play/project-b26_container-test/modules/admin/app/views/db/cty/collection.scala.html
+                  DATE: Thu May 17 12:30:50 BST 2018
+                  SOURCE: C:/Users/sambo/scala/play/project-b26.2/modules/admin/app/views/db/cty/collection.scala.html
                   HASH: 357e3638c795788570b02cc697241f1b725bf8f9
                   MATRIX: 439->1|835->19|1071->182|1093->196|1236->177|1266->308|1296->313|1308->318|1345->347
                   LINES: 17->1|22->2|26->4|26->4|29->2|31->6|33->8|33->8|33->8
